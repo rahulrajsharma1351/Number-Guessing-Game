@@ -124,6 +124,9 @@ header h1 {
 }
 
 @media (max-width:400px) {
+     header {
+        height: 48vh;
+    }
     .again {
         top: 1rem;
         left: 1rem;
